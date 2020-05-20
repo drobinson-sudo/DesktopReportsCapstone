@@ -5,7 +5,7 @@
 
 This is **Part II** of a three-part group project for a Capstone course. My team mates were to research privacy and security needs for a fictitious company as relates to the new **Califronia Privacy Laws (CCPA)**. This app (and the related web app) was created for each team member to install on their own computers to create and edit research reports.
 
-Part I of this project was a SQL database using Azure SQL (for cloud storage.) Part III of this project is as ASP.Net web app to connect to the same database for viewing of reports.
+Part I of this project was a SQL database using Azure SQL (for cloud storage.) [**Part III**](https://github.com/drobinson-sudo/CapstoneWebApp) of this project is as ASP.Net web app to connect to the same database for viewing of reports.
 
 ### Scope
 
